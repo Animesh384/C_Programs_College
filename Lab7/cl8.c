@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-
+//prgram to claculate lens formula
     int c;
     printf("Press 1, Lens\n");
     printf("Press 2, Mirror");
